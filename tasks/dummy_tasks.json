@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Learn Python",
+    "description": "Complete the beginner's tutorial",
+    "completed": false
+  },
+  {
+    "title": "Workout",
+    "description": "Follow the push-pull-legs routine",
+    "completed": true
+  }
+]
